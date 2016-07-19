@@ -6,14 +6,12 @@
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/activity/contract/ejb/ActivityServiceBean.java" timestamp="1468947702268">
         <mark key="'" line="3684" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" timestamp="1468948606447">
-        <mark key="'" line="347" column="12" />
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" timestamp="1468951121079">
+        <mark key="'" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/Product/Webapp/Workflow/src/main/webapp/program/programapproval/startPage.xhtml" timestamp="1468948825039" />
-      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/interfaces/DashboardService.java" timestamp="1468948610712">
-        <mark key="'" line="17" column="22" />
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/interfaces/DashboardService.java" timestamp="1468951100007">
+        <mark key="'" line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/legal/contract/interfaces/OrderSentence.java" timestamp="1468947404929" />
       <file name="/a.dummy" timestamp="1468948494223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,8 +21,9 @@
       <file name="$USER_HOME$/workspace/Product/Webapp/Workflow/src/main/java/syscon/arbutus/product/webapp/activity/program/programapproval/ProgramApprovalActivity.java" timestamp="1468948925641">
         <mark key="'" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/legal/contract/ejb/LegalServiceBean.java" timestamp="1468947415231" />
-      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/audit/contract/ejb/eventaudit/EventAuditServiceBean.java" timestamp="1468947941435" />
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHelper.java" timestamp="1468951240098">
+        <mark key="'" line="246" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/program/contract/dto/ProgramAssignmentType.java" timestamp="1468948192969">
         <mark key="'" line="75" column="0" />
       </file>
@@ -49,6 +48,10 @@
       <jump line="33" column="14" filename="$USER_HOME$/workspace/Product/Webapp/Workflow/src/main/java/syscon/arbutus/product/webapp/activity/program/programapproval/ProgramApprovalActivity.java" />
       <jump line="4368" column="28" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/movement/contract/ejb/MovementServiceBean.java" />
       <jump line="517" column="50" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/movement/contract/interfaces/MovementServiceCommon.java" />
+      <jump line="40" column="13" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" />
+      <jump line="27" column="17" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/interfaces/DashboardService.java" />
+      <jump line="59" column="2" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" />
+      <jump line="246" column="10" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHelper.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
@@ -66,6 +69,9 @@
       <history-search>
         <entry>kseesion</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
