@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/activity/contract/ejb/ActivityServiceBean.java" timestamp="1468947702268">
         <mark key="'" line="3684" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictServiceBean.java" timestamp="1468952151312">
+        <mark key="'" line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" timestamp="1468951121079">
         <mark key="'" line="59" column="2" />
       </file>
@@ -15,6 +18,9 @@
       <file name="/a.dummy" timestamp="1468948494223">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/interfaces/ConflictService.java" timestamp="1468952156133">
+        <mark key="'" line="59" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/Product/ESB/dmv-camel/src/main/java/syscon/arbutus/product/esb/service/dmv/ServiceDispatcher.java" timestamp="1468948595664">
         <mark key="'" line="42" column="0" />
       </file>
@@ -23,6 +29,9 @@
       </file>
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHelper.java" timestamp="1468951240098">
         <mark key="'" line="246" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/dto/NonAssociationType.java" timestamp="1468952153757">
+        <mark key="'" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/program/contract/dto/ProgramAssignmentType.java" timestamp="1468948192969">
         <mark key="'" line="75" column="0" />
@@ -35,6 +44,9 @@
       </file>
       <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/movement/contract/interfaces/MovementServiceCommon.java" timestamp="1468950661306">
         <mark key="'" line="517" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHandler.java" timestamp="1468952148758">
+        <mark key="'" line="33" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -52,6 +64,10 @@
       <jump line="27" column="17" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/interfaces/DashboardService.java" />
       <jump line="59" column="2" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/dashboard/contract/ejb/DashboardServiceBean.java" />
       <jump line="246" column="10" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHelper.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictHandler.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/ejb/ConflictServiceBean.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/dto/NonAssociationType.java" />
+      <jump line="59" column="36" filename="$USER_HOME$/workspace/Product/Services/ArbutusService/src/main/java/syscon/arbutus/product/services/conflict/contract/interfaces/ConflictService.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
